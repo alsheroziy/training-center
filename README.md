@@ -41,7 +41,7 @@ Bu loyiha Laravel va React texnologiyalaridan foydalanib yaratilgan zamonaviy o'
 
 ```bash
 # Repozitoriyani klonlash
-git clone [repository-url]
+git clone https://github.com/alsheroziy/training-center.git
 
 # Kerakli PHP paketlarini o'rnatish
 composer install
@@ -119,10 +119,9 @@ Bu loyiha MIT litsenziyasi ostida tarqatilgan. Batafsil ma'lumot uchun [LICENSE]
 
 ## Muallif
 
-- [Muallif ismi]
+- Shehroz
 
 ## Bog'lanish
 
 Savollar va takliflar uchun quyidagi manzilga murojaat qiling:
-- Email: [email]
-- Telefon: [telefon]
+- Telegram @alsheroziy
