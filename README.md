@@ -1,4 +1,4 @@
-##### O'quv Markaz Boshqaruv Tizimi
+## O'quv Markaz Boshqaruv Tizimi
 
 Bu loyiha Laravel va React texnologiyalaridan foydalanib yaratilgan zamonaviy o'quv markaz boshqarish tizimi.
 
